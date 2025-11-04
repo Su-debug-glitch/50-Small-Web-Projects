@@ -95,6 +95,10 @@ nav ul li {
     transition: transform 0.4s ease-in;
 }
 
+nav ul li a {
+    color: white;
+}
+
 nav ul li i {
     font-size: 20px;
     margin-right: 10px
